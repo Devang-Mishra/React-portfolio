@@ -40,7 +40,7 @@ const about = () => {
           </div>
 
           <p>
-          hi  ,i am devang mishra currently studyin in iiit ranchi under ece program and my aim to si to vea a web dev
+          hi  ,i am devang mishra currently studyin in iiit ranchi under ecce program and my aim to si to vea a web dev
           </p> 
           
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
