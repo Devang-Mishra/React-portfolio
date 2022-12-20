@@ -41,7 +41,7 @@ const about = () => {
 
           <p>
           Hi,I am devang mishra a Pre-final Year student at IIIT Ranchi pursuing Btech in Electronics and Communication Engineering.
-          I love to solve problems on Data structures & Algorithms and have interest in Web Development.I also do competitive programming.
+          I love to solve problems on Data Structures & Algorithms and have interest in Web Development.I also do competitive programming.
           </p> 
           
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
