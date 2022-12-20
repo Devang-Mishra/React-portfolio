@@ -35,13 +35,13 @@ const about = () => {
             <article className='about__card'>
             <VscFolderLibrary className='about__icon'/>
             <h5>Projects</h5>
-            <small>4+ Completed</small>
+            <small>4+Completed</small>
            </article>
           </div>
 
           <p>
           Hi,I am devang mishra a Pre-final Year student at IIIT Ranchi pursuing Btech in Electronics and Communication Engineering.
-          I lot to solve problems on Data structures & Algorithms and have interest in Web Development.
+          I love to solve problems on Data structures & Algorithms and have interest in Web Development.I also do competitive programming.
           </p> 
           
           <a href='#contact' className='btn btn-primary'>Let's Talk</a>
